@@ -1,0 +1,186 @@
+[
+  {
+    "id_forma_farmaceutica": "1",
+    "descrizione": "Fiale/flaconcini/fialoidi"
+  },
+  {
+    "id_forma_farmaceutica": "2",
+    "descrizione": "Fiale/flaconcini + solvente"
+  },
+  {
+    "id_forma_farmaceutica": "3",
+    "descrizione": "Siringhe preriempite/fiala + siringa"
+  },
+  {
+    "id_forma_farmaceutica": "4",
+    "descrizione": "Preparazione iniettabile"
+  },
+  {
+    "id_forma_farmaceutica": "5",
+    "descrizione": "Compresse"
+  },
+  {
+    "id_forma_farmaceutica": "6",
+    "descrizione": "Compresse rivestite"
+  },
+  {
+    "id_forma_farmaceutica": "7",
+    "descrizione": "Capsule"
+  },
+  {
+    "id_forma_farmaceutica": "8",
+    "descrizione": "Compresse/capsule gastroresistenti"
+  },
+  {
+    "id_forma_farmaceutica": "9",
+    "descrizione": "Cpr effervescenti/solubili/delitescenti"
+  },
+  {
+    "id_forma_farmaceutica": "10",
+    "descrizione": "Compresse orodispersibili/sublinguali"
+  },
+  {
+    "id_forma_farmaceutica": "11",
+    "descrizione": "Compresse/tavolette masticabili"
+  },
+  {
+    "id_forma_farmaceutica": "12",
+    "descrizione": "Pillole"
+  },
+  {
+    "id_forma_farmaceutica": "13",
+    "descrizione": "Caramelle e pastiglie"
+  },
+  {
+    "id_forma_farmaceutica": "14",
+    "descrizione": "Cialdini"
+  },
+  {
+    "id_forma_farmaceutica": "15",
+    "descrizione": "Gomme da masticare"
+  },
+  {
+    "id_forma_farmaceutica": "16",
+    "descrizione": "Granulato"
+  },
+  {
+    "id_forma_farmaceutica": "17",
+    "descrizione": "Polvere"
+  },
+  {
+    "id_forma_farmaceutica": "18",
+    "descrizione": "Gocce"
+  },
+  {
+    "id_forma_farmaceutica": "19",
+    "descrizione": "Sciroppo"
+  },
+  {
+    "id_forma_farmaceutica": "20",
+    "descrizione": "Soluzione"
+  },
+  {
+    "id_forma_farmaceutica": "21",
+    "descrizione": "Sospensione"
+  },
+  {
+    "id_forma_farmaceutica": "22",
+    "descrizione": "Tisana"
+  },
+  {
+    "id_forma_farmaceutica": "23",
+    "descrizione": "Marmellata"
+  },
+  {
+    "id_forma_farmaceutica": "24",
+    "descrizione": "Gel"
+  },
+  {
+    "id_forma_farmaceutica": "25",
+    "descrizione": "Colluttorio"
+  },
+  {
+    "id_forma_farmaceutica": "26",
+    "descrizione": "Pomata"
+  },
+  {
+    "id_forma_farmaceutica": "27",
+    "descrizione": "Crema"
+  },
+  {
+    "id_forma_farmaceutica": "28",
+    "descrizione": "Unguento"
+  },
+  {
+    "id_forma_farmaceutica": "29",
+    "descrizione": "Pasta"
+  },
+  {
+    "id_forma_farmaceutica": "30",
+    "descrizione": "Schiuma"
+  },
+  {
+    "id_forma_farmaceutica": "31",
+    "descrizione": "Emulsione"
+  },
+  {
+    "id_forma_farmaceutica": "32",
+    "descrizione": "Shampoo"
+  },
+  {
+    "id_forma_farmaceutica": "33",
+    "descrizione": "Garze"
+  },
+  {
+    "id_forma_farmaceutica": "34",
+    "descrizione": "Cerotti"
+  },
+  {
+    "id_forma_farmaceutica": "35",
+    "descrizione": "Cerotti + compresse rivestite"
+  },
+  {
+    "id_forma_farmaceutica": "36",
+    "descrizione": "Lavaggi/bagni"
+  },
+  {
+    "id_forma_farmaceutica": "37",
+    "descrizione": "Spray"
+  },
+  {
+    "id_forma_farmaceutica": "38",
+    "descrizione": "Aerosol"
+  },
+  {
+    "id_forma_farmaceutica": "39",
+    "descrizione": "Polvere per inalazione"
+  },
+  {
+    "id_forma_farmaceutica": "40",
+    "descrizione": "Gas"
+  },
+  {
+    "id_forma_farmaceutica": "41",
+    "descrizione": "Ovuli"
+  },
+  {
+    "id_forma_farmaceutica": "42",
+    "descrizione": "Candelette vaginali"
+  },
+  {
+    "id_forma_farmaceutica": "43",
+    "descrizione": "Sistema a rilascio vaginale"
+  },
+  {
+    "id_forma_farmaceutica": "44",
+    "descrizione": "Dispositivo intrauterino"
+  },
+  {
+    "id_forma_farmaceutica": "45",
+    "descrizione": "Supposte"
+  },
+  {
+    "id_forma_farmaceutica": "46",
+    "descrizione": "Clisma"
+  }
+]
